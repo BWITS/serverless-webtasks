@@ -1,6 +1,6 @@
 {
   "name": "@webtask/serverless-webtasks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webtask support for the Serverless Framework",
   "main": "lib/index.js",
   "bin": {
